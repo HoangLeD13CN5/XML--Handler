@@ -1,0 +1,6 @@
+framework module Pods_XmlParse {
+  umbrella header "Pods-XmlParse-umbrella.h"
+
+  export *
+  module * { export * }
+}
